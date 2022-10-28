@@ -1,4 +1,4 @@
-## Project-7_Prediction_of_readmitted status_2
+## Prediction_of_readmitted status_2
 ### Description
 This is case study dataset for the  project.The data set describes readmitted patients in diabetics. There are about 34 variables included that cover chacterictics of patients admitted at some point in time. Most variables describe the patient characteristics, medical conditions or features of medical threatments but other variables provide measures of quality and condition. The data types are varied and include discrete, continuous, and categorical (both nominal and ordinal) data.
 
